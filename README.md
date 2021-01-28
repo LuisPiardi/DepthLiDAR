@@ -8,8 +8,8 @@ The validation consists of five experiments comparing the virtual sensor results
 
 Each experiment had variations in the distance of obstacles or measurement positions to prove the proposed sensor's efficiency.
 
-The files with suffix V correspond to the data of the virtual sensor;
-Files with suffix X correspond to the actual sensor data.
+The files with suffix (v) correspond to the data of the virtual sensor;
+Files with suffix (r) correspond to the actual sensor data.
 
 The experiments evaluated:
 - Angular Assimmetry;
